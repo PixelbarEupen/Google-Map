@@ -8,10 +8,10 @@ Es ist möglich mehrere Shortcodes auf einer einzigen Seite zu benutzen.
 
 Folgende Optionen können mitgegeben werden:
 
-*marker -> absolute URL zum Marker Bild
-*lat -> Latitude Koordinaten
-*lon -> Longitude Koordinaten
-*zoom -> Zoomstufe
+* marker -> absolute URL zum Marker Bild
+* lat -> Latitude Koordinaten
+* lon -> Longitude Koordinaten
+* zoom -> Zoomstufe
 
 Beispiel:
 
