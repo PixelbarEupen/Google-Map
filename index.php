@@ -1,12 +1,12 @@
 <?php
 	
 	/*	
-	Plugin Name: Simple Google Map
+	Plugin Name: Pixelbar Simple Google Map
 	Author: Adrian Lambertz
 	Description: Fügt die Google Map Funktionalität hinzu. Einfach Plugin installieren und über Shortcode einfügen. Scripts werden selektiv geladen.
-	Plugin URI: https://github.com/PixelbarEupen/Google-Map
+	Plugin URI: https://github.com/PixelbarEupen/pix-google-map
 	Version: 0.1.1
-	GitHub Plugin URI: https://github.com/PixelbarEupen/Google-Map
+	GitHub Plugin URI: https://github.com/PixelbarEupen/pix-google-map
 	GitHub Access Token: 6ca583973da0e33ee1a6c90c3e4920e6143369ca
 	*/
 	
