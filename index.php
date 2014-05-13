@@ -22,7 +22,7 @@
 	
 		
 	
-	if(!function_exists(google_map)){
+	if(!function_exists('google_map')){
 		//shortcode function
 		function google_map($atts) {
 			extract( shortcode_atts( array(
@@ -64,7 +64,7 @@
 	}
 	
 	//register script function
-	if(!function_exists(pix_register_maplace_script)){	
+	if(!function_exists('pix_register_maplace_script'')){	
 		function pix_register_maplace_script() {
 			wp_register_script( 'googlemap', 'http://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.7');
 			wp_register_script( 'maplace', plugins_url( '/js/maplace.js' , __FILE__ ));
@@ -74,7 +74,7 @@
 	
 	
 	//print script function
-	if(!function_exists(pix_add_maplace_script)){	
+	if(!function_exists('pix_add_maplace_script')){	
 		function pix_add_maplace_script() {
 			global $pix_add_maplace_script;
 		
